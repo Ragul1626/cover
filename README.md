@@ -31,6 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -126,7 +127,7 @@ body, html {
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px
-
+```
 
 ## OUTPUT:
 ![383823297-a68cc9e9-b82e-4181-8aac-3a0df96b3b03](https://github.com/user-attachments/assets/8d09e164-9a12-4cf6-9cd9-97fcbfd3cd43)
